@@ -39,7 +39,7 @@ while (b):
             print("You win")
             m=m+1
     
-    a=int(input("Do you want to play again press 1 for yes 2 for No:  "))
+    a=int(input("Do you want to play again press 1 for yes 0 for No:  "))
     if(a==1):
         b=True
     else:
